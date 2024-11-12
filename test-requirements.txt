@@ -8,9 +8,9 @@ ansible==8.7.0 \
     --hash=sha256:3a5ca5152e4547d590e40b542d76b18dbbe2b36da4edd00a13a7c51a374ff737 \
     --hash=sha256:fa7d3bc2dfdb0ab031df645814ff86b15cb5ec041bfbee4041f795abfa5646ca
     # via -r test-requirements.in
-ansible-core==2.15.12 \
-    --hash=sha256:390edd603420122f7cb1c470d8d1f8bdbbd795a1844dd03c1917db21935aecb9 \
-    --hash=sha256:5fde82cd3928d9857ad880782c644f27d3168b0f25321d5a8d6befa524aa1818
+ansible-core==2.15.13 \
+    --hash=sha256:e7f50bbb61beae792f5ecb86eff82149d3948d078361d70aedb01d76bc483c30 \
+    --hash=sha256:f542e702ee31fb049732143aeee6b36311ca48b7d13960a0685afffa0d742d7f
     # via ansible
 cffi==1.17.1 \
     --hash=sha256:045d61c734659cc045141be4bae381a41d89b741f795af1dd018bfb532fd0df8 \
@@ -253,9 +253,9 @@ markupsafe==3.0.2 \
     --hash=sha256:f8b3d067f2e40fe93e1ccdd6b2e1d16c43140e76f02fb1319a05cf2b79d99430 \
     --hash=sha256:fcabf5ff6eea076f859677f5f0b6b5c1a51e70a376b0579e0eadef8db48c6b50
     # via jinja2
-packaging==24.1 \
-    --hash=sha256:026ed72c8ed3fcce5bf8950572258698927fd1dbda10a5e981cdf0ac37f4f002 \
-    --hash=sha256:5b8f2217dbdbd2f7f384c41c628544e6d52f2d0f53c6d0c3ea61aa5d1d7ff124
+packaging==24.2 \
+    --hash=sha256:09abb1bccd265c01f4a3aa3f7a7db064b36514d2cba19a2f694fe6150451a759 \
+    --hash=sha256:c228a6dc5e932d346bc5739379109d49e8853dd8223571c7c5b55260edc0b97f
     # via
     #   ansible-core
     #   pytest
